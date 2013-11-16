@@ -1,0 +1,4 @@
+Most significant changes since the last release:
+
+* Bugfixes in Broccoli communication code
+* gcc 4.3 issues

@@ -1,0 +1,40 @@
+sip1 sip2 sip3 sip4 dip1 dip2 dip3 dip4 sport dport   proto time   pcapfile 	offset
+byte byte byte byte byte byte byte byte ushort ushort  int  double int		int
+
+
+CREATE TABLE `traceinfo`.`day` (
+`sip1` TINYINT UNSIGNED NOT NULL ,
+`sip2` TINYINT UNSIGNED NOT NULL ,
+`sip3` TINYINT UNSIGNED NOT NULL ,
+`sip4` TINYINT UNSIGNED NOT NULL ,
+`dip1` TINYINT UNSIGNED NOT NULL ,
+`dip2` TINYINT UNSIGNED NOT NULL ,
+`dip3` TINYINT UNSIGNED NOT NULL ,
+`dip4` TINYINT UNSIGNED NOT NULL ,
+`sport` SMALLINT UNSIGNED NOT NULL ,
+`dport` SMALLINT NOT NULL ,
+`proto` MEDIUMINT NOT NULL ,
+`time` DOUBLE NOT NULL ,
+`pcapfile` MEDIUMINT NOT NULL ,
+`offset` INT NOT NULL,
+
+) ENGINE = MYISAM ;
+
+
+CREATE TABLE `traceinfo`.`pk` (
+`sip1` TINYINT UNSIGNED NOT NULL ,
+`sip2` TINYINT UNSIGNED NOT NULL ,
+`sip3` TINYINT UNSIGNED NOT NULL ,
+`sip4` TINYINT UNSIGNED NOT NULL ,
+`dip1` TINYINT UNSIGNED NOT NULL ,
+`dip2` TINYINT UNSIGNED NOT NULL ,
+`dip3` TINYINT UNSIGNED NOT NULL ,
+`dip4` TINYINT UNSIGNED NOT NULL ,
+`sport` SMALLINT UNSIGNED NOT NULL ,
+`dport` SMALLINT NOT NULL ,
+`proto` MEDIUMINT NOT NULL ,
+`time` DOUBLE NOT NULL ,
+`pcapfile` MEDIUMINT NOT NULL ,
+`offset` INT NOT NULL,
+INDEX ( `time` )
+) ENGINE = MYISAM ; 

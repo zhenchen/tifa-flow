@@ -1,0 +1,1296 @@
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000001
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000001 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000001
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000002
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000002 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000002
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000003
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000003 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000003
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000004
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000004 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000004
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000005
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000005 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000005
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000006
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000006 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000006
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000007
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000007 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000007
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000008
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000008 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000008
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000009
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000009 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000009
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000000f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000000f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000000f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000010
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000010 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000010
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000011
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000011 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000011
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000012
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000012 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000012
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000013
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000013 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000013
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000014
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000014 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000014
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000015
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000015 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000015
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000016
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000016 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000016
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000017
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000017 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000017
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000018
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000018 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000018
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000019
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000019 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000019
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000001f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000001f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000001f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000020
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000020 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000020
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000021
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000021 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000021
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000022
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000022 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000022
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000023
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000023 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000023
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000024
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000024 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000024
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000025
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000025 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000025
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000026
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000026 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000026
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000027
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000027 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000027
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000028
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000028 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000028
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000029
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000029 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000029
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000002f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000002f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000002f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000030
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000030 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000030
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000031
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000031 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000031
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000032
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000032 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000032
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000033
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000033 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000033
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000034
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000034 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000034
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000035
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000035 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000035
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000036
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000036 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000036
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000037
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000037 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000037
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000038
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000038 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000038
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000039
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000039 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000039
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000003f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000003f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000003f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000040
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000040 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000040
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000041
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000041 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000041
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000042
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000042 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000042
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000043
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000043 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000043
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000044
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000044 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000044
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000045
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000045 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000045
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000046
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000046 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000046
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000047
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000047 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000047
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000048
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000048 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000048
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000049
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000049 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000049
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000004f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000004f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000004f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000050
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000050 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000050
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000051
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000051 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000051
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000052
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000052 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000052
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000053
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000053 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000053
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000054
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000054 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000054
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000055
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000055 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000055
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000056
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000056 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000056
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000057
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000057 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000057
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000058
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000058 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000058
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000059
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000059 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000059
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000005f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000005f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000005f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000060
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000060 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000060
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000061
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000061 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000061
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000062
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000062 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000062
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000063
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000063 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000063
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000064
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000064 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000064
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000065
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000065 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000065
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000066
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000066 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000066
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000067
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000067 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000067
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000068
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000068 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000068
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000069
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000069 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000069
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000006f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000006f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000006f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000070
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000070 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000070
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000071
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000071 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000071
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000072
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000072 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000072
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000073
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000073 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000073
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000074
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000074 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000074
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000075
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000075 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000075
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000076
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000076 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000076
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000077
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000077 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000077
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000078
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000078 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000078
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000079
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000079 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000079
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000007f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000007f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000007f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000080
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000080 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000080
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000081
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000081 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000081
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000082
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000082 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000082
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000083
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000083 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000083
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000084
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000084 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000084
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000085
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000085 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000085
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000086
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000086 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000086
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000087
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000087 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000087
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000088
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000088 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000088
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000089
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000089 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000089
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008a
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008a ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008a
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008b
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008b ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008b
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008c
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008c ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008c
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008d
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008d ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008d
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008e
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008e ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008e
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp0000008f
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp0000008f ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp0000008f
+/root/src/searchFlow/.libs/lt-ardea: verbose level 0
+Will attempt to parse 1 CSV file
+	index/tmp/tmp00000090
+ with the following column names and types
+	sip1:unsigned byte,sip2:unsigned byte,sip3:unsigned byte,sip4:unsigned byte 			,dip1:unsigned byte,dip2:unsigned byte,dip3:unsigned byte,dip4:unsigned byte,sport:unsigned short,dport:unsigned short 			,proto:int,time_start:double,time_end:double,pcapfile:int,offset:int,len:int
+
+
+/root/src/searchFlow/.libs/lt-ardea to read CSV file index/tmp/tmp00000090 ...
+/root/src/searchFlow/.libs/lt-ardea read 500000 rows from index/tmp/tmp00000090
