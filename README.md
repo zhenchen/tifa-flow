@@ -1,12 +1,11 @@
-# tifa-flow
-TiFAflow Introduction
+# TIFAflow Introduction
 
 Time Machine(TM) is a open source package integrated with Bro IDS system. TIFA integrates TimeMachine and FastBit.
 
 TIFAflow enhance TIFA to store, index and query traffic with flow granularity.
 
-#Publications
-Publications
+# Publications
+
 Zhen Chen, Fuye Han, Junwei Cao, Xin Jiang, Shuo Chen, Cloud Computing-Based Forensic Analysis for Collaborative Network Security Management System, Tsinghua Science and Technology, 18 (1), pp.40-50, 2013.
 
 http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=6449406
